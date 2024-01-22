@@ -15,4 +15,4 @@ attendance system using face recognization in Python
 
 
 # Home Page :
-<img src="./PHOTOS/a.png" alt="Image Alt Text" height="350"/>
+<img src="./photos/a.png" alt="Image Alt Text" height="350"/>
