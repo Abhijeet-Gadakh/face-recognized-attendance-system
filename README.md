@@ -22,3 +22,27 @@ attendance system using face recognization in Python
 
 # Other Snaps :
 <img src="./photos/7.PNG" alt="Image Alt Text" height="200"/><img src="./photos/8.PNG" alt="Image Alt Text" height="200"/>
+
+
+## SYSTEM REQUIREMENT:
+
+### Hardware :
+1. High-resolution camera
+2. Modern processor (dual-core or higher)
+3. Minimum 4GB RAM
+
+### Software :
+1. Compatible OS (Windows, Linux, macOS)
+2. Python (version 3.x)
+3. Required libraries (e.g., OpenCV, Dlib)
+4. Facial recognition model (e.g., OpenFace, FaceNet)
+
+### Database :
+1. Database Management System (e.g., SQLite, MySQL)
+2. Database connectivity
+
+### User Interface : 
+1. Graphical User Interface toolkit (e.g., Tkinter, PyQt)
+
+### Connectivity : 
+1. Internet connectivity (for optional cloud integration)
