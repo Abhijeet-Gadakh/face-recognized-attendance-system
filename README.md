@@ -16,3 +16,6 @@ attendance system using face recognization in Python
 
 # Home Page :
 <img src="./photos/a.png" alt="Image Alt Text" height="350"/>
+
+#### Project Modules :
+<img src="./photos/b.png" alt="Image Alt Text" height="140"/><img src="./photos/c.png" alt="Image Alt Text" height="140"/><img src="./photos/d.png" alt="Image Alt Text" height="140"/>
