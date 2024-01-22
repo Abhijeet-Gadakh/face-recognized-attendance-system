@@ -13,5 +13,6 @@ attendance system using face recognization in Python
 ### Oppurtunity :
 • The Face Recognition Attendance System addresses these challenges by leveraging advanced facial recognition technology. It provides a reliable and efficient solution to automate the attendance tracking process, reducing the likelihood of errors and enhancing overall accuracy. This technology not only streamlines administrative tasks but also offers a more secure and user-friendly experience for individuals. 
 
+
 # Home Page :
 <img src="./PHOTOS/a.png" alt="Image Alt Text" height="350"/>
